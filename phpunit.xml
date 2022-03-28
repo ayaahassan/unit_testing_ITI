@@ -1,0 +1,8 @@
+<phpunit>
+<testsuites>
+<testsuite name="factorial">
+<directory>tests</directory>
+<file>FileTest.php</file>
+</testsuite>
+</testsuites>
+</phpunit>
